@@ -4,7 +4,8 @@ Intro to Git
 This file is in a repo which is being used as a hands-on example in the Hackers
 at Cambridge Git Workshop 2016. You can find the slides of the presentation [here](https://codepen.io/Moosichu/pen/XNpOeg).
 
-Please give feedback on the workshop at: TODO
+Please give feedback on the workshop at:
+[https://goo.gl/forms/wl5QwTJoFYIXDpgc2](https://goo.gl/forms/wl5QwTJoFYIXDpgc2) (not yet live!)
 
 Please follow the setup below before the workshop takes place!
 
@@ -21,7 +22,7 @@ Go here: https://git-scm.com/download/win
 
 Follow the instructions, leave everything on its default setting.
 
-#### MacOS
+#### OSx
 
 Go here: https://git-scm.com/download/mac
 
@@ -81,11 +82,13 @@ for the workshop, the steps are also listed below.
    [haiku](https://www.poets.org/poetsorg/text/haiku-poetic-form) in this
    text-file.
 6. Open the folder you are in in bash-for-windows/terminal and type
-   ``` git add file_name.txt ```, where ``` file_name.txt ``` is the name of the
+   ```git add file_name.txt``` , where ``` file_name.txt ``` is the name of the
    file containing your Haiku!
-7. Now write ```git commit```, in the text editor, simply add the line:
+7. In order to tell git who you are, run ```git config --global user.email "your@email.here"```
+   followed by ```git config --global user.name "Your Name"```
+8. Now write ```git commit```, in the text editor, simply add the line:
    "Add YourName's Haiku". Where, YourName is, your name.
-8. Finally write ``` git push ``` in the terminal, and you are done!
+9. Finally write ``` git push ``` in the terminal, and you are done!
 
 Notes
 =====
