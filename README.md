@@ -2,7 +2,7 @@ Intro to Git
 ============
 
 This file is in a repo which is being used as a hands-on example in the Hackers
-at Cambridge Git Workshop 2016. You can find the slides of the presentation [here](https://codepen.io/Moosichu/pen/XNpOeg).
+at Cambridge Git Workshop 2017. You can find the slides of the presentation [here](https://codepen.io/MaxVigdorchik/pen/POYoGM).
 
 Please give feedback on the workshop at:
 [https://goo.gl/forms/wl5QwTJoFYIXDpgc2](https://goo.gl/forms/wl5QwTJoFYIXDpgc2) (not yet live!)
