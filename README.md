@@ -4,8 +4,7 @@ Intro to Git
 This file is in a repo which is being used as a hands-on example in the Hackers
 at Cambridge Git Workshop 2016. You can find the slides of the presentation [here](https://codepen.io/Moosichu/pen/XNpOeg).
 
-Please give feedback on the workshop at:
-[https://goo.gl/forms/wl5QwTJoFYIXDpgc2](https://goo.gl/forms/wl5QwTJoFYIXDpgc2) (not yet live!)
+Please give feedback on the workshop at: TODO
 
 Please follow the setup below before the workshop takes place!
 
@@ -22,7 +21,7 @@ Go here: https://git-scm.com/download/win
 
 Follow the instructions, leave everything on its default setting.
 
-#### OSx
+#### MacOS
 
 Go here: https://git-scm.com/download/mac
 
