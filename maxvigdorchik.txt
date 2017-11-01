@@ -1,3 +1,5 @@
 Poetry is hard
 Although Wow Haikus ain't too bad
 And neither is git
+Although Haikus ain't too bad
+Change neither is git
