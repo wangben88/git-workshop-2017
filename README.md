@@ -263,6 +263,22 @@ A useful explanation can be found
 [here](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations).
 It also covers Git revert and other aspects not mentioned here!
 
+Git Ignore
+-----------
+Often when working on a project, there will be plenty of files where you are not concerned
+about the history and changes made. For example, when working on a C++ project, you
+will have executable files and '.o' files to actually run the code which need to be remade every
+time the code changes. It does not make sense to include those in a repository
+as you never edit them directly, and anyone else looking at your could can easily generate them
+again.
+
+For this reason, git allows you to add a file called '.gitignore' where you can put filenames
+that you do not want to show up anywhere in the git repository. This will even prevent them
+from showing up from commands like ```git status```, so it is like those files don't even exist from git's
+perspective! People have even created common templates for .gitignore files such as a C++ one that will automatically
+ignore all files ending in '.o' (along with a bunch of other stuff).
+
+Since this is not covered in the workshop, more info can be found [here](https://www.atlassian.com/git/tutorials/gitignore)
 
 Special thanks
 --------------
