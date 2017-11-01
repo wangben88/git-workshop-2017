@@ -112,17 +112,27 @@ Write imperative title that is less than 50 chars
 The body of the message can be as long as you want it to be :) (but
 each line should be less than 72 characters). You can write in any
 format as long as you give a description of what your changes do and,
-most importantly, why the changes were made.
+most importantly, why the changes were made. Don't forget to leave
+a blank line between the first paragraph and the title!
 
 If you need a list, that is easy:
- - You can list something like this
- - Like this
+
+- You can list something like this
+
+- And another thing like this this
 
 Some repositories will require commits to be signed off, which can go
 at the bottom. You will see this a lot in Linux Kernel commits. In fact,
 the links above have good examples of commit messages! Although not
 every single message follows this format, you will find most of them do.
 ```
+
+For a good rule of thumb on the title, try to think if it will fit as
+part of the sentence "This commit will...", eg. "This commit will
+`Add the hunklepunkle feature`"
+
+Read [this blog post](https://chris.beams.io/posts/git-commit/) for
+justification on why to do this.
 
 Git Log
 -------
