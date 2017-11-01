@@ -1,5 +1,3 @@
 Richard Hac, our bot
 Is a lovely AI
-Happily, a dog
-
-these are the changes
+But sadly, no dog
